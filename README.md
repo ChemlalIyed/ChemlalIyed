@@ -1,22 +1,30 @@
-<h1 align="center">👋 Hi, I'm Iyed Chemlal</h1>
-<h2 align="center">Full Stack Developer || Web and Mobile apps.</h2>
-<h3 align="center">Always learning. Always improving. Building my path to becoming a great developer.</h3>
+<h1 align="center">👋 Hi, I'm <span style="color:#58A6FF;">Iyed Chemlal</span></h1>
+<h2 align="center" style="color:#C9D1D9;">Full Stack Developer • Web & Mobile Apps</h2>
+<h3 align="center" style="color:#8B949E;">
+Always learning. Always improving. Building my path to becoming a great developer.
+</h3>
 
 ---
 
-## 🔗 Connect With Me
+## 🔗 <span style="color:#F78166;">Connect With Me</span>
 <p align="center">
-<a href="https://instagram.com/m.iyed.__.ch.8" target="blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+<a href="https://instagram.com/m.iyed.__.ch.8" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
-<a href="https://www.leetcode.com/miyedch" target="blank">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+<a href="https://www.leetcode.com/miyedch" target="_blank">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+<a href="mailto:iyedchemlal@gmail.com">
+<img src="https://img.shields.io/badge/Email-0A66C2?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://iyed.online" target="_blank">
+<img src="https://img.shields.io/badge/Website-24292F?style=for-the-badge&logo=githubpages&logoColor=white"/>
 </a>
 </p>
 
 ---
 
-## 💻 Programming Languages
+## 💻 <span style="color:#58A6FF;">Programming Languages</span>
 <p align="center">
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> 
@@ -27,7 +35,7 @@
 
 ---
 
-## 🚀 Frameworks & Libraries
+## 🚀 <span style="color:#A371F7;">Frameworks & Libraries</span>
 
 ### 🎨 Frontend Development
 <p align="center">
@@ -40,8 +48,9 @@
 ### 🛠 Backend Development
 <p align="center">
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white"/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socket.io&logoColor=white"/>
+<img src="https://img.shields.io/badge/WebSockets-4353FF?style=for-the-badge&logo=websocket&logoColor=white"/>
 </p>
 
 ### 📱 Mobile Development
@@ -52,7 +61,7 @@
 
 ---
 
-## 🗄 Databases
+## 🗄 <span style="color:#3FB950;">Databases</span>
 <p align="center">
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
@@ -62,16 +71,20 @@
 
 ---
 
-## 🧰 Tools & Platforms
+## 🧰 <span style="color:#F85149;">Tools & Platforms</span>
 <p align="center">
 <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 <span style="color:#58A6FF;">GitHub Stats</span>
 <p align="center">
-<img src="https://stats.programcx.cn/api?username=chemlaliyed&show_icons=true&theme=tokyonight" />
+<img src="https://stats.programcx.cn/api?username=chemlaliyed&show_icons=true&theme=tokyonight"/>
+</p>
+<p align="center">
+<img src="https://stats.programcx.cn/api/top-langs?username=chemlaliyed&layout=compact&theme=tokyonight"/>
 </p>
