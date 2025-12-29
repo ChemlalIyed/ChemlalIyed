@@ -88,3 +88,9 @@ Always learning. Always improving. Building my path to becoming a great develope
 <p align="center">
 <img src="https://stats.programcx.cn/api/top-langs?username=chemlaliyed&layout=compact&theme=tokyonight"/>
 </p>
+
+## 📊 <span style="color:#58A6FF;">LeetCode Stats</span>
+<p align="center">
+<img src="https://leetcode-stats.vercel.app/api?username=miyedch&theme=dark&show_icons=true&count_private=true"/>
+</p>
+</p>
