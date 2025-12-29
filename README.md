@@ -1,5 +1,6 @@
 <h1 align="center">👋 Hi, I'm <span style="color:#58A6FF;">Iyed Chemlal</span></h1>
 <h2 align="center" style="color:#C9D1D9;">Full Stack Developer • Web & Mobile Apps</h2>
+<h2 align="center" style="color:#C9D1D9;">CSE STUDENT</h2>
 <h3 align="center" style="color:#8B949E;">
 Always learning. Always improving. Building my path to becoming a great developer.
 </h3>
